@@ -1,5 +1,5 @@
   <p align="center">
-  <img align="center" src="./imgs/rain.gif">
+  <img style="border-radius:50%" align="center" src="./imgs/rain.gif">
   </p>
 
   <h1 align="center" >Hi, there 👋</h1>
