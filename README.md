@@ -1,7 +1,3 @@
-  <p align="center">
-  <img style="border-radius:50%" align="center" src="./imgs/rain.gif">
-  </p>
-
   <h1 align="center" >Hi, there 👋</h1>
 
   <p >I'm a software developer with a lot of curiosity who seeks to learn and improve my skills daily. In 2021 I got certified as a Full Stack Developer with Node.js, ReactJS, and react Native. In 2022 I received a certificate of completion for my path in Node.js at @rocketseat. Last but not least, I finished my technical high school in this same year (2022), so I'm a Computer technician too. 😊</p>
