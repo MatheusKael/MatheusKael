@@ -20,6 +20,8 @@ In my work, I prioritize a culture of code reuse and have experience with versio
 
   <br/>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MatheusKael&theme=dark)](https://git.io/streak-stats)
+
 <h2 style="font-family:verdana">Connect</h2>
   <p align="center">
 <a href="https://www.linkedin.com/in/matheuskael/" target="_blank">
@@ -36,9 +38,3 @@ In my work, I prioritize a culture of code reuse and have experience with versio
 <h2 style="font-family:verdana">Contribution graph</h2>
 
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MatheusKael&theme=react"/>
-
-<h2 style="font-family:verdana">GitHub Stats</h2>
-
-<a href="https://github.com/MatheusKael">
-
-  <img height="180em" src="https://github-readme-stats-chi-two-98.vercel.app/api?username=MatheusKael&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true"/>
