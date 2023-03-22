@@ -15,6 +15,7 @@ In my work, I prioritize a culture of code reuse and have experience with versio
   <h3>Focus!!💢</h3>
   
   <p>💻Currently I'm working on a personal project called <a href="http://ebov.vercel.app/">e-Bov</a>.</p>
+   <p>💻Getting better using <a href="https://github.com/neovim/neovim">neovim</a></p>
   <p>📚Studying more about Node.js, TypeScript, and JavaScript through documentation, challenges and open source code</p>
   <p>📚Studying CS50 harvard University's introduction to the intellectual enterprises of computer science and the art of programming through edX.</p>
 
