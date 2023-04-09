@@ -33,9 +33,3 @@ In my work, I prioritize a culture of code reuse and have experience with versio
 </a>
 </p>
 
-<h2 style="font-family:verdana">Github Trophies</h2>
-<img src="https://github-profile-trophy.vercel.app/?username=MatheusKael&theme=onedark"/>
-
-<h2 style="font-family:verdana">Contribution graph</h2>
-
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=MatheusKael&theme=react"/>
