@@ -9,8 +9,6 @@
   
   <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MatheusKael&theme=dark)](https://git.io/streak-stats)
-
 <h2 style="font-family:verdana">Connect</h2>
   <p align="center">
 <a href="https://www.linkedin.com/in/matheuskael/" target="_blank">
